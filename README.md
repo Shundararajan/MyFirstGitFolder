@@ -1,1 +1,2 @@
-# MyFirstGitFolder
+My First Commit in:
+MyFirstBranch
